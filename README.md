@@ -1,6 +1,10 @@
-# 🥛 Milk Outside A Bag Of Milk Grub Theme
+# 🥛 Milk Outside A Bag Of Milk Grub BLUE Theme
 
 ![Showcase](./preview.png)
+
+### Why does this fork exist?
+
+Simply because I like the colour blue and I wanted it to match my desktop color.
 
 ### 🛠️ Installation
 
